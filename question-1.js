@@ -1,3 +1,5 @@
+//TRAVELLING - SEATING ARRANGEMENT
+
 function findFacingSeatType(seatNumber) {
     const remaining = seatNumber % 12;
 
